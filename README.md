@@ -3,9 +3,9 @@
   <img alt="Nolu" title="Nolu" src=".github/logo.png" width="200px" />
 </h1>
 
-<h3 align="center">
+<h1 align="center">
   Brinquedaria Nolu
-</h3>
+</h1>
 <p align = "center">
 Teste Prático para Desenvolvedor Back-End - Nolu Tecnologia
 </p>
