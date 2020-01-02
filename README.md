@@ -12,7 +12,7 @@ Teste Prático para Desenvolvedor Back-End - Nolu Tecnologia
 
 ### :information_source: Instruções
 
-Para clonar esse app voce precisa [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) + [Yarn v1.13](https://yarnpkg.com/). Para ele poder funcionar precisa de um banco [MySql](https://www.mysql.com/) instalado e rodando na maquina <details><summary>podendo utilizar o [Docker](https://www.docker.com/).</summary>
+Para clonar esse app voce precisa [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) + [Yarn](https://yarnpkg.com/). Para ele poder funcionar precisa de um banco [MySql](https://www.mysql.com/) instalado e rodando na maquina <details><summary>podendo utilizar o [Docker](https://www.docker.com/).</summary>
 ```bash
 # instalar mysql
 docker run -d -p 3306:3306 --name nolu-mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:latest
@@ -58,3 +58,7 @@ yarn dev
 - Dotenv: Para gerenciar variaveis de ambiente;
 - Sequelize: ORM (Object-Relational Mapper) para Node.
 - Express e Mysql2.
+
+## :clap: Obrigado
+
+Agradeço à [NOLU Tecnologia](https://www.linkedin.com/company/nolu-tecnologia/) pela oportunidade.
